@@ -1,3 +1,5 @@
+//! brunch test
+
 import { galleryItems } from './gallery-items.js';
 
 const listEl = document.querySelector('.gallery');
